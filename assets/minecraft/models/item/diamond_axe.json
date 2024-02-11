@@ -8,13 +8,13 @@
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "minecraft:goblin_sickle"
+      "model": "item/goblin_sickle"
     },
     {
       "predicate": {
         "custom_model_data": 2
       },
-      "model": "minecraft:halberdier_halberd"
+      "model": "item/halberdier_halberd"
     }
   ]
 }

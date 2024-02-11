@@ -8,19 +8,19 @@
       "predicate": {
         "custom_model_data": 0
       },
-      "model": "minecraft:knight_helmet"
+      "model": "item/knight_helmet"
     },
     {
       "predicate": {
         "custom_model_data": 2
       },
-      "model": "minecraft:halberdier_helmet"
+      "model": "item/halberdier_helmet"
     },
     {
       "predicate": {
         "custom_model_data": 3
       },
-      "model": "minecraft:goblin_helmet"
+      "model": "item/goblin_helmet"
     }
   ]
 }
